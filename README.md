@@ -2,9 +2,13 @@
 
 # Kognitív mesterséges intelligencia koncepció
 
-Vázlatszerűen, G.M. pontjai alapján tálalva az eddigiek:
+## Abstraction and refinement
 
-Mindenekleőtt: folytonos tanulás, ha másképpen nem megoldható, akkor az aktivitást megszakító "alvási" szakaszok közbeiktatásával.
+### Absztrakció
+
+Itt csak vázlatszerűen, G.M. pontjai alapján tálalva az eddigiek:
+
+***Mindenekleőtt: folytonos tanulás, ha másképpen nem megoldható, akkor az aktivitást megszakító "alvási" szakaszok közbeiktatásával.***
 
 **1. There are no silver bullets**:
 Mivel nincs egyetlen alapelven, ötleten alapuló megoldás. ezért különböző közelítéseket kell integrálni és talán az integráció maga is sokszínűséget igényel.
@@ -16,7 +20,7 @@ Pl.:
 
 **2. Cognition makes extensive use of internal representations**:
 Van honnan meríteni (nemcsak a machine learning területéről), noha szimultán alkalmazást támogató reprezentáció-menedzsment szükséges.
-csak a megértéshez náhány példa:
+csak a megértéshez néhány példa:
 - vektorszemantika kiterjesztése hiperpolitóp alapú szemantikára
 - M² paradigma (Minta & Modell)
 - tudásgráfok
@@ -73,3 +77,29 @@ Az lenne optimális, ha az üres palatáblákat egy nulladik fázisban végrehaj
 G.M. problémafeltáró módon (példáként) áttekint (Kant nyomán) három Általa knowledge framework-nek nevezett cuccot (idő, tér és okozatiság), noha nyilván számos ilyen fogalmi keretünk van.
 Szerintem a kognitív tudomány (kognitív nyelvészet) konstrukciói (kategorizáció, fogalmi keret, képi séma, alternatív konceptualizáció, mentális terek, fogalmi integráció - lásd Kövecses-Benczes, 2010) mellett 
 szükséges a nyelvészeti pragmatika konstrukcióinak a felhasználása is, amelynek alapja persze a "más elmék teória", mint kommunikációs alapfeltevés. (Itt példaként említhető a Thum-féle négyfül modell...)
+
+
+### Finomítás
+...
+
+
+
+## Architectural decomposition and component composition
+
+### Architecturális dekompozíció
+...
+
+
+### Komponens kompozíció
+...
+
+
+
+## View decomposition and view merge
+
+### Nézet dekompozíció 
+...
+
+
+### Nézet összevonás
+...
